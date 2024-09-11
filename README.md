@@ -13,4 +13,4 @@ The primary objective of this project is to design a network that:
 - Provides scalable and secure network solutions for future growth.
 - Ensures the company’s servers, cables, and operating systems align with industry best practices for performance and security.
 ## How to View
-You can find the detailed network plan in the `documents` folder. It includes diagrams and descriptions of each component.
+You can find the detailed network plan in the `documents` folder.
