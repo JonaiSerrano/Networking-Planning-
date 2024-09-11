@@ -1,3 +1,4 @@
+# Network Infrastructure Design Project
 ## Project Overview
 This project outlines the network infrastructure design for Greenfield Properties, a company that is in the process of setting up its IT network. The design includes decisions regarding network architecture, cable types, server needs, and network scalability, with a focus on ensuring secure and efficient operations for both in-house and remote employees.
 ## Key Components
